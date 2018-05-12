@@ -1,0 +1,40 @@
+_repo: Plays-First-SeriesThe-Dream-Play---The-Link---The-Dance-of-Death-Part-I-and-II_45375
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Björkman, Edwin
+    aliases:
+    - Björkman, Edwin August
+    - Bjorkman, Edwin
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '1677'
+    url: http://www.gutenberg.org/2009/agents/1677
+covers:
+- cover_type: archival
+  image_path: 45375-h/images/cover_sg.jpg
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Strindberg, August, 1849-1912 -- Translations into English'
+- !lcsh 'Swedish drama -- Translations into English'
+tableOfContents: The dream play -- The link -- The dance of death part I and II.
+title: Plays by August Strindberg, First Series
+url: http://www.gutenberg.org/ebooks/45375
